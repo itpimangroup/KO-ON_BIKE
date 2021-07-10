@@ -1,0 +1,86 @@
+{
+          "type": "template",
+          "altText": "this is an image carousel template",
+          "template": {
+            "type": "image_carousel",
+            "columns": [
+              {
+                "imageUrl": "https://pimangroup.com/KO-ON_BIKE/img/booking.png",
+                "action": {
+                  "type": "uri",
+                  "label": "จองเลย",
+                  "uri": "https://liff.line.me/1655537433-PqWp78Xk/?m_id=8"
+                }
+              }
+            ]
+          }
+        }{
+          "type": "template",
+          "altText": "this is an image carousel template",
+          "template": {
+            "type": "image_carousel",
+            "columns": [
+              {
+                "imageUrl": "https://pimangroup.com/KO-ON_BIKE/img/booking.png",
+                "action": {
+                  "type": "uri",
+                  "label": "จองเลย",
+                  "uri": "https://liff.line.me/1655537433-PqWp78Xk?m_id=8"
+                }
+              }
+            ]
+          }
+        }{
+          "type": "template",
+          "altText": "this is an image carousel template",
+          "template": {
+            "type": "image_carousel",
+            "columns": [
+              {
+                "imageUrl": "https://pimangroup.com/KO-ON_BIKE/img/booking.png",
+                "action": {
+                  "type": "uri",
+                  "label": "จองเลย",
+                  "uri": "https://liff.line.me/1655537433-PqWp78Xk?m_id=10"
+                }
+              }
+            ]
+          }
+        }{
+          "type": "template",
+          "altText": "this is an image carousel template",
+          "template":
+          {
+            "type": "template",
+            "altText": "this is an image carousel template",
+            "template": {
+              "type": "image_carousel",
+              "columns": [
+                {
+                  "imageUrl": "https://pimangroup.com/KO-ON_BIKE/img/agreement.jpg",
+                  "action": {
+                    "type": "uri",
+                    "label": "รายละเอียด",
+                    "uri": "https://pimangroup.com/KO-ON_BIKE/detail_agreement.php"
+                  }
+                }
+              ]
+            }
+          }
+        }{
+          "type": "template",
+          "altText": "this is an image carousel template",
+          "template": {
+            "type": "image_carousel",
+            "columns": [
+              {
+                "imageUrl": "https://pimangroup.com/KO-ON_BIKE/img/agreement.jpg",
+                "action": {
+                  "type": "uri",
+                  "label": "รายละเอียด",
+                  "uri": "https://pimangroup.com/KO-ON_BIKE/detail_agreement.php"
+                }
+              }
+            ]
+          }
+        }
